@@ -4,9 +4,10 @@
   "details": [
    {
     "appID": "Y8YPC676J8.com.tcb.tcp",
-    "paths": ["*"]
+    "paths": [
+     "*"
+    ]
    }
   ]
  }
 }
-
