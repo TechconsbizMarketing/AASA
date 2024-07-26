@@ -1,0 +1,13 @@
+{
+ "applinks": {
+  "apps": [],
+  "details": [
+   {
+    "appID": "com.TechConsBiz.Memorandeum",
+    "paths": [
+     "/wolf-approve/.well-known/apple-app-site-association.json"
+    ]
+   }
+  ]
+ }
+}
